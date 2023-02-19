@@ -17,7 +17,7 @@ The facts behind why we choose that subject, or character its because we love ga
 
 ## Credits
 
-Rodrigo Freitas, Tiago Witt
+Rodrigo Freitas
 
 ## License
 
